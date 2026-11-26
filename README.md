@@ -1,6 +1,6 @@
-# bydevon
+# Hi, my Name is Devon.
 
-- Hi, my Name is Devon.
+
 
 - I am interested in learning more about python, C, Machine Learning, and microprocessors.
 
