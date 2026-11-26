@@ -2,6 +2,6 @@
 
 - Hi, my Name is Devon.
 
-- I am interested in Microprocessors, Machine Learning, and Computer Vision.
+- I am interested in learning more about python, C, Machine Learning, and microprocessors.
 
-- I am currently attempting my Bachelors for Computer Engineering at SDSU.
+- I am currently undergoing my Bachelors for Computer Engineering at SDSU.
